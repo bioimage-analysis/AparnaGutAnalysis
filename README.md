@@ -1,4 +1,4 @@
-Assessing Sarcomeres length over time - HaoDi Wu from Joseph Wu lab
+Finding Distance nucleus edge Guts
 ==================================
 
 ## Setup
