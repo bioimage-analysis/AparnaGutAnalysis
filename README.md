@@ -64,9 +64,9 @@ jupyter notebook
 ```
 You will find a basic introduction on how to use the Jupyter Notebook [HERE](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Notebook%20Basics.html)
 
-## Note about Notebook in github
+## Overview of the Notebook
 
-If it doesn't load try using this [link](https://nbviewer.jupyter.org/).
+Follow this [link](https://nbviewer.jupyter.org/github/bioimage-analysis/AparnaGutAnalysis/blob/master/aparna_guts_analysis.ipynb).
 
 ## Contact
 Cedric Espenel  
